@@ -1,2 +1,1 @@
-# war
-thi s s is a game of war 
+War Card Game by Derek Lin
